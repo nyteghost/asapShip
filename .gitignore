@@ -1,0 +1,6 @@
+app/test/
+**.png
+**.jpg
+**.pyc
+test
+ImageSearch/
