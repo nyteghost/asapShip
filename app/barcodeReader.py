@@ -9,11 +9,11 @@ import multiprocessing
 
 prefix = r"C:\Users"
 localuser = getpass.getuser()
-spfolderpath= r"Southeastern Computer Associates, LLC\GCA Deployment - Documents\Database\GCA Report Requests\ASAP Pickup Data"
+spfolderpath= r"\ASAP Pickup Data"
 folderdate = r"2022-03-08"
 familyid = r"1546921 - Copy"
 filefolder = prefix+'\\'+localuser+'\\'+spfolderpath+'\\'+folderdate+'\\'+familyid
-dirName = r'C:\Users\Mbrown\Southeastern Computer Associates, LLC\GCA Deployment - Documents\Database\GCA Report Requests\ASAP Pickup Data' #here your dir path
+dirName = r'\ASAP Pickup Data' #where your dir path
 
 
 def getListOfFiles(dirName):
