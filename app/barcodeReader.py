@@ -136,7 +136,7 @@ if __name__ == "__main__":
 #         newName = newName.replace("'",'')
 #         print(newName)
 #         os.rename(f,filefolder+'\\'+newName+'.png')
-# folder = r'C:\Users\Mbrown\Southeastern Computer Associates, LLC\GCA Deployment - Documents\Database\GCA Report Requests\ASAP Pickup Data\2022-03-08' #here your dir path
+# folder = r'' #here your dir path
 
 # if __name__ == "__main__":
 #   for (paths, dirs, files) in os.walk(folder):
